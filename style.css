@@ -10,9 +10,9 @@
     font-family: 'Hind', sans-serif;
 }
 
-.bannerBgImage {
+.bannerImage {
     height: 100vh;
-    background:url("/bannerI.jpg");
+    background: url("/bannerI.jpg");
     background-size: cover;
     position: relative;
 }
