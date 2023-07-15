@@ -17,7 +17,7 @@
     position: relative;
 }
 
-.bannerText {
+.bannerText{
     text-align: right;
     position: absolute;
     top: 50%;
@@ -26,14 +26,16 @@
     color: white;
 }
 
-.bannerTitle {
+.bannerTitle{
     font-size: 4rem;
 }
-
-.bannerDesc {
+.bannerDesc{
     font-size: 2rem;
 }
 
+.text-justify{
+    text-align: justify;
+}
 .card {
     cursor: pointer;
 }
