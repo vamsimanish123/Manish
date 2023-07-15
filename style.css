@@ -2,7 +2,6 @@
 *
 {
     background-color: black;
-    color: white;
 
 }
 
@@ -33,7 +32,9 @@
 .bannerDesc {
     font-size: 2rem;
 }
-
+.text-justify{
+    text-align: justify;
+}
 .card {
     cursor: pointer;
 }
