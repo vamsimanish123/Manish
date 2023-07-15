@@ -59,3 +59,15 @@
 .card-img-top {
     height:50vx;
 }
+.size
+{
+    height: 400px;
+    width: 400px;
+}
+#container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: center;
+}
