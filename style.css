@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
-
+* 
 {
     background-color: black;
     color: white;
 
+}
+
+*{
+    font-family: 'Hind', sans-serif;
 }
 
 .bannerBgImage{
@@ -29,9 +33,7 @@
 .bannerDesc {
     font-size: 2rem;
 }
-.text-justify{
-    text-align: justify;
-}
+
 .card {
     cursor: pointer;
 }
